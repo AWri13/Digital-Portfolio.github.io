@@ -1,0 +1,50 @@
+.nav{
+    width: 100%;
+    display: inline-flexbox;
+    align-items: center;
+    color: blueviolet;
+    padding-top: 500px;   
+}
+
+#font-face{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.search-bar{
+    position: sticky;
+    cursor: pointer;
+    padding-right: 30px;
+    fill: none;
+    background-color: whitesmoke;
+}
+
+menu-icon{
+    width: 25px;
+    cursor: pointer;
+}
+
+.nav ul li{
+    list-style: square;
+    display: contents;
+    margin-right: 30px;
+
+}
+
+.page-footer{
+    background-color: rgb(92, 14, 92);
+}
+
+<!--blog-example-->
+
+.ul {
+    list-style: square; 
+    margin-left: 140px;
+    padding-top: 100px;
+}
+
+
+
+
+
+
